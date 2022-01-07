@@ -1,6 +1,6 @@
 
 import React from "react";
-importar { Home } de       "./Home";
+importar { Home } from "./Home" ;
 
 const App =()=>{
   return(
