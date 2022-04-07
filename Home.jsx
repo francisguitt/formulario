@@ -51,7 +51,7 @@ export const Home =()=>{
      width:"100%", 
      display:"flex", 
      flexDirection:"column", 
-     backgroundColor:"#00BFFF", 
+     backgroundColor:"#000", 
      height:"755px", 
      justifyContent:"start", 
      alignItems:"center", 
