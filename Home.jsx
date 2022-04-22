@@ -24,9 +24,11 @@ export const Home =()=>{
    }
    
    const getAllfunctions=()=>{
+     if(name || email || password !== ""){
      setTimeout(()=>{
        alert(" Atenção Dados Salvo Em localStorage")
      },5000)
+   }
      showMemoName();
      showMemoName();
       showMemoEmail();
